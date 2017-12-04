@@ -2,12 +2,16 @@
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="meta 7" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoModule" />
