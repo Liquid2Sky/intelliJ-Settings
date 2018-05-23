@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="GRAILS_ROOT" value="/Users/liquid/.sdkman/candidates/grails/2.3.8" />
+    <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
+  </component>
+</application>
